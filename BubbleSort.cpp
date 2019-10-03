@@ -21,7 +21,7 @@ int main()
         }//End bracket for for loop iterating through each list element
     }//End bracket for for loop counting how many iterations through list
     return 0;
-} //End bracket for main function
+
 void switchNumbers(int array[], int firstIndex, int secondIndex)
 {//Start bracket for switchNumbers function
     int temp = array[firstIndex];
